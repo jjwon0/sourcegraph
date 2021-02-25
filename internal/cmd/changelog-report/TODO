@@ -1,0 +1,1 @@
+Fix missing git blame data for texts that don't match because of link rendering
